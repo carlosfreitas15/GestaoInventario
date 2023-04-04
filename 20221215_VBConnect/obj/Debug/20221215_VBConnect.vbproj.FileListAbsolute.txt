@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe.config
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\bin\Debug\20221215_VBConnect.pdb
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\bin\Debug\20221215_VBConnect.xml
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Form1.resources
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Resources.resources
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.exe
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.xml
+C:\Users\User\Desktop\Visual Basic\20221215_VBConnect\20221215_VBConnect\obj\Debug\20221215_VBConnect.pdb
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe.config
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.pdb
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.xml
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.AssemblyReference.cache
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Form1.resources
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Resources.resources
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.GenerateResource.cache
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.exe
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.xml
+C:\Users\admin\Desktop\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.pdb
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe.config
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.exe
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.pdb
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\bin\Debug\20221215_VBConnect.xml
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.AssemblyReference.cache
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.SuggestedBindingRedirects.cache
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Form1.resources
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\_20221215_VBConnect.Resources.resources
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.GenerateResource.cache
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.vbproj.CoreCompileInputs.cache
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.exe
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.xml
+F:\FORMAÇÃO DE PROGRAMAÇÃO\UCFD - VB .net\Exercicios\f13_dgvMaisControlos\20221215_VBConnect2019\20221215_VBConnect2019\20221215_VBConnect\obj\Debug\20221215_VBConnect.pdb
